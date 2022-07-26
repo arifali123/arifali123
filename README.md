@@ -8,7 +8,7 @@ I am a full stack developer and proficient in the NodeJS ecosystem. I mainly use
 
 * 🌍  I'm based in the Bay Area
 * ✉️  You can contact me at [arifali@arifali.dev](mailto:arifali@arifali.dev)
-* 🧠  I'm learning react native
+* 🧠  I'm learning go
 
 ### Skills
 
