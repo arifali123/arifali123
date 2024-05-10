@@ -8,6 +8,6 @@
 </p>
 
 <p align="center">
-	<img height=125 src="https://github-readme-stats-amber-eta.vercel.app/api/top-langs/?username=arifali123&layout=compact&text_color=7d8590&bg_color=0d1117&border_color=30363d&locale=en&count_private=true&hide=html&langs_count=4&card_width=450&custom_title=language_stats" />
-	&nbsp;&nbsp;&nbsp;<img height=125 src="https://github-readme-stats-amber-eta.vercel.app/api?username=arifali123&show_icons=true&text_bold=false&text_color=7d8590&bg_color=0d1117&border_color=30363d&locale=en&count_private=true&hide_rank=true&hide=issues,contribs&card_width=450&custom_title=github_stats" />
+	<img height=125 src="https://readme-stats.onrender.com/top-langs/?username=arifali123&layout=compact&text_color=7d8590&bg_color=0d1117&border_color=30363d&locale=en&count_private=true&hide=html&langs_count=4&card_width=450&custom_title=language_stats" />
+	&nbsp;&nbsp;&nbsp;<img height=125 src="https://readme-stats.onrender.com?username=arifali123&show_icons=true&text_bold=false&text_color=7d8590&bg_color=0d1117&border_color=30363d&locale=en&count_private=true&hide_rank=true&hide=issues,contribs&card_width=450&custom_title=github_stats" />
 </p>
